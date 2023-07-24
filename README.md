@@ -1,16 +1,5 @@
 # business_card_app
 
-A new Flutter project.
+A Simple Flutter app as a business card.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Capture](https://github.com/abdalrahmanabs/business-card-flutter/assets/58333909/e69fda40-d4c4-4165-b3db-9d1665a4a318)
